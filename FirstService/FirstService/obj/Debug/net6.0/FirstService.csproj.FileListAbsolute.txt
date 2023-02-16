@@ -1,0 +1,17 @@
+Z:\Elhoceny\MicroServicesCommunication\FirstService\FirstService\bin\Debug\net6.0\FirstService.exe
+Z:\Elhoceny\MicroServicesCommunication\FirstService\FirstService\bin\Debug\net6.0\FirstService.deps.json
+Z:\Elhoceny\MicroServicesCommunication\FirstService\FirstService\bin\Debug\net6.0\FirstService.runtimeconfig.json
+Z:\Elhoceny\MicroServicesCommunication\FirstService\FirstService\bin\Debug\net6.0\FirstService.dll
+Z:\Elhoceny\MicroServicesCommunication\FirstService\FirstService\bin\Debug\net6.0\FirstService.pdb
+Z:\Elhoceny\MicroServicesCommunication\FirstService\FirstService\bin\Debug\net6.0\RabbitMQ.Client.dll
+Z:\Elhoceny\MicroServicesCommunication\FirstService\FirstService\obj\Debug\net6.0\FirstService.csproj.AssemblyReference.cache
+Z:\Elhoceny\MicroServicesCommunication\FirstService\FirstService\obj\Debug\net6.0\FirstService.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Elhoceny\MicroServicesCommunication\FirstService\FirstService\obj\Debug\net6.0\FirstService.AssemblyInfoInputs.cache
+Z:\Elhoceny\MicroServicesCommunication\FirstService\FirstService\obj\Debug\net6.0\FirstService.AssemblyInfo.cs
+Z:\Elhoceny\MicroServicesCommunication\FirstService\FirstService\obj\Debug\net6.0\FirstService.csproj.CoreCompileInputs.cache
+Z:\Elhoceny\MicroServicesCommunication\FirstService\FirstService\obj\Debug\net6.0\FirstService.csproj.CopyComplete
+Z:\Elhoceny\MicroServicesCommunication\FirstService\FirstService\obj\Debug\net6.0\FirstService.dll
+Z:\Elhoceny\MicroServicesCommunication\FirstService\FirstService\obj\Debug\net6.0\refint\FirstService.dll
+Z:\Elhoceny\MicroServicesCommunication\FirstService\FirstService\obj\Debug\net6.0\FirstService.pdb
+Z:\Elhoceny\MicroServicesCommunication\FirstService\FirstService\obj\Debug\net6.0\FirstService.genruntimeconfig.cache
+Z:\Elhoceny\MicroServicesCommunication\FirstService\FirstService\obj\Debug\net6.0\ref\FirstService.dll

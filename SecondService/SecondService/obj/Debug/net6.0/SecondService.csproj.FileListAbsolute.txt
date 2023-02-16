@@ -1,0 +1,17 @@
+Z:\Elhoceny\MicroServicesCommunication\SecondService\SecondService\bin\Debug\net6.0\SecondService.exe
+Z:\Elhoceny\MicroServicesCommunication\SecondService\SecondService\bin\Debug\net6.0\SecondService.deps.json
+Z:\Elhoceny\MicroServicesCommunication\SecondService\SecondService\bin\Debug\net6.0\SecondService.runtimeconfig.json
+Z:\Elhoceny\MicroServicesCommunication\SecondService\SecondService\bin\Debug\net6.0\SecondService.dll
+Z:\Elhoceny\MicroServicesCommunication\SecondService\SecondService\bin\Debug\net6.0\SecondService.pdb
+Z:\Elhoceny\MicroServicesCommunication\SecondService\SecondService\bin\Debug\net6.0\RabbitMQ.Client.dll
+Z:\Elhoceny\MicroServicesCommunication\SecondService\SecondService\obj\Debug\net6.0\SecondService.csproj.AssemblyReference.cache
+Z:\Elhoceny\MicroServicesCommunication\SecondService\SecondService\obj\Debug\net6.0\SecondService.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Elhoceny\MicroServicesCommunication\SecondService\SecondService\obj\Debug\net6.0\SecondService.AssemblyInfoInputs.cache
+Z:\Elhoceny\MicroServicesCommunication\SecondService\SecondService\obj\Debug\net6.0\SecondService.AssemblyInfo.cs
+Z:\Elhoceny\MicroServicesCommunication\SecondService\SecondService\obj\Debug\net6.0\SecondService.csproj.CoreCompileInputs.cache
+Z:\Elhoceny\MicroServicesCommunication\SecondService\SecondService\obj\Debug\net6.0\SecondService.csproj.CopyComplete
+Z:\Elhoceny\MicroServicesCommunication\SecondService\SecondService\obj\Debug\net6.0\SecondService.dll
+Z:\Elhoceny\MicroServicesCommunication\SecondService\SecondService\obj\Debug\net6.0\refint\SecondService.dll
+Z:\Elhoceny\MicroServicesCommunication\SecondService\SecondService\obj\Debug\net6.0\SecondService.pdb
+Z:\Elhoceny\MicroServicesCommunication\SecondService\SecondService\obj\Debug\net6.0\SecondService.genruntimeconfig.cache
+Z:\Elhoceny\MicroServicesCommunication\SecondService\SecondService\obj\Debug\net6.0\ref\SecondService.dll

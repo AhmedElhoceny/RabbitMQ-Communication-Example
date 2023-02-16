@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "OljnRPg4653Cw+A722wNl6uChcyH9f07owUy5PgKaHMpjMfdGX0EYVoUtDzrS4alKT5E8tvlOjW/HUX0nfROLw==",
+  "success": true,
+  "projectFilePath": "Z:\\Elhoceny\\MicroServicesCommunication\\SecondService\\SecondService\\SecondService.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dev08\\.nuget\\packages\\rabbitmq.client\\6.4.0\\rabbitmq.client.6.4.0.nupkg.sha512",
+    "C:\\Users\\dev08\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\dev08\\.nuget\\packages\\system.threading.channels\\4.7.1\\system.threading.channels.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}
